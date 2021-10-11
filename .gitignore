@@ -1,0 +1,18 @@
+# Build output
+*.suo
+*.user
+.vs/
+[Bb]in/
+[Oo]bj/
+_UpgradeReport_Files/
+[Pp]ackages/
+
+# Log
+*.log
+
+# JetBrains Rider
+.idea/
+*.iml
+
+# Mac OS X
+.DS_Store
